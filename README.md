@@ -11,7 +11,7 @@
 🌱 **About Me**
 
 - 🎓 Software Engineering student at Ontario Tech University (expected 2027)
-- 💻 Passionate about backend systems, APIs, and AI integrations
+- 💻 Passionate about backend systems, and AI integrations
 - 🛠️ Currently exploring cloud platforms like AWS and Azure
 - 🤝 I enjoy collaborating on open-source and community-driven projects
 
