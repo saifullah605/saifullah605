@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/saifullah605">
-    <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=saifullah605&style=flat-square&color=blue" alt="Profile views"/>
   </a>
 </p>
 
