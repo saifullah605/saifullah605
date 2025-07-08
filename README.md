@@ -14,7 +14,7 @@
 - 💻 Passionate about backend systems, APIs, and AI integrations
 - 🛠️ Currently exploring cloud platforms like AWS and Azure
 - 🤝 I enjoy collaborating on open-source and community-driven projects
-- 🕌 I also organize Friday prayers on campus, building community beyond tech
+
 
 ---
 
