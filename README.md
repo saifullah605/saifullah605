@@ -36,7 +36,7 @@
 📫 **Get in Touch**
 
 - 📧 Email: saifullah.siddiqui04@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/saifulla-siddiqui)
+- 💼 [LinkedIn](https://www.linkedin.com/in/saifulla-siddiqui/)
 
 
 ---
