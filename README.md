@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=devops&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
----
+
 
 ## 🧑‍💻 Most Used Languages
 
