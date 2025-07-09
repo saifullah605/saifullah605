@@ -31,12 +31,12 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-
+---
 ## 🧑‍💻 Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah605&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
+---
 📫 **Get in Touch**
 
 - 📧 Email: saifullah.siddiqui04@gmail.com
