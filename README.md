@@ -34,6 +34,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah605&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+## 🏅 Certifications
+
+[![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/e188e34067d346dfb4327688313066e2)
+
+---
+
+
+
 📫 **Get in Touch**
 
 - 📧 Email: saifullah.siddiqui04@gmail.com
