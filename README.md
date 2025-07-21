@@ -67,7 +67,7 @@
 ---
 
 ⚡ **Fun Fact:**  
-When I'm not coding, you'll find me organizing community events, playing strategy games, or learning about the cosmos.
+When I'm not coding, you'll find me organizing community events, playing strategy games, or learning about the cosmos!
 
 ---
 
